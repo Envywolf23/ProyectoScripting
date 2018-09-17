@@ -1,0 +1,29 @@
+﻿Proyecto Scripting
+
+
+Integrantes:
+
+
+Juan Pedro Acevedo Carvajal - ID: 000311782
+Jorge Andrés Orrego Córdoba - ID: 000287268
+
+
+Clasificador de residuos  ( Minijuego perteneciente al proyecto de Taller 6 iHo)
+
+
+Mini Juego para móviles con mecánica básica de swipe control que usa la herencia de clases en los diferentes tipos de residuos y que el jugador los pueda clasificar en las distintas categorías que se proponen, también se usará el patrón de diseño Observer para determinar en donde el jugador clasifico la basura y si esta corresponde a la categoría.
+
+
+El jugador deberá identificar y clasificar el tipo de basura que se le irá mostrando en pantalla en el tiempo estimado, como un proceso de aprendizaje acerca de los tipos de basura que existen, si el jugador se equivoca al menos 3 veces perderá el juego
+
+
+Existirán al menos 4 categorías de basura: Papel, Plástico, Metal y Vidrio
+
+
+El juego tendrá una vista superior o Top down
+
+
+Juego desarrollado para móviles con plataforma android
+
+
+Mecánicas principales y Reglas: El jugador observará la basura que aparece en la pantalla de juego y tendrá que clasificar con un gesto de swipe en la caneca correspondiente lo antes posible, entre más basura clasifique en el tiempo que dure el nivel más puntos obtendrá, si el jugador se equivoca al menos 3 veces perderá el nivel
